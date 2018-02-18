@@ -1,0 +1,130 @@
+<?php
+    return [
+        'Logout' => 'Logout',
+        'english' => 'en',
+        'arabic' => 'ar',
+        'home'   => 'Home',
+        'social_links'   => 'Social Links',
+        'facebook_link'   => 'Facebook Link',
+        'twitter_link'   => 'Twitter Link',
+        'gmail_link'   => 'Gmail Link',
+        'slider_image'   => 'Slider Images',
+        'image'   => 'Image',
+        'upload_image'   => 'Upload New Image',
+        'update'   => 'Update',
+        'delete'   => 'Delete',
+        'home_about_section'   => 'Home About Section',
+        'home_about_english'   => 'Home About Paragraph(English)',
+        'home_about_arabic'   => 'Home About Paragraph(Arabic)',
+        'our_client_slider'   => 'Our Clients Slider',
+        'add' => 'Add',
+        'edit'   => 'Edit',
+        'update_image'   => 'Update Image',
+        'subscribers'   => 'Subscribers',
+        'email'   => 'Subscriber Email',
+        'reply'   => 'Reply',
+        'select'   => 'Select',
+        'send'   => 'Send',
+        'delete_all'   => 'Delete All',
+        'reply_all'   => 'Reply All',
+        'reply_selected'   => 'Reply Selected',
+
+        // Settings
+        'settings' => 'Settings',
+        'site_settings'   => 'Site Settings',
+        'website_name'   => 'Website Name',
+        'website_url'   => 'Website Url',
+        'website_name_search'   => 'Website Name For Search',
+        'website_email'   => 'Website E-mail',
+        'website_language'   => 'Website Language',
+
+        // About
+        'about' => 'About',
+        'about_image'   => 'About Image',
+        'about_p_english'   => 'About Paragraph(English))',
+        'about_p_arabic'   => 'About Paragraph(Arabic))',
+        'about_left_english'   => 'About Left Paragraph(English)',
+        'about_left_arabic'   => 'About Left Paragraph(Arabic)',
+        'about_right_english'   => 'About Right Paragraph(English)',
+        'about_right_arabic'   => 'About Right Paragraph(Arabic)',
+
+        // Service
+        'services' => 'Services',
+        'our_services_en'   => 'Our Services(English)',
+        'our_services_ar'   => 'Our Services(Arabic)',
+        'our_mission_en'   => 'Our Mission(English)',
+        'our_mission_ar'   => 'Our Mission(Arabic)',
+        'our_vission_en'   => 'Our Vission(English)',
+        'our_vission_ar'   => 'Our Vission(Arabic)',
+        'upload_for_service'   => 'Upload Image For Service',
+        'add_service_title_en'   => 'Add Service Title(English)',
+        'add_service_title_ar'   => 'Add Service Title(Arabic)',
+        'add_service_desc_en'   => 'Add Service Description(English)',
+        'add_service'   => 'Add Service',
+        'all_services'   => 'All Services',
+        'service_image'   => 'Service Image',
+        'service_title'   => 'Service Title',
+        'service_desc'   => 'Service Description',
+
+        // Yacht
+        'yacht'   => 'Yacht Services',
+
+        // Gallery
+        'gallery'   => 'Gallery',
+
+        // Faq
+        'faq'   => 'Faq',
+        'add_new_question'   => 'Add New Question',
+        'question_en'   => 'Question(English)',
+        'question_ar'   => 'Question(Arabic)',
+        'answer_en'   => 'Answer(English)',
+        'answer_ar'   => 'Answer(Arabic)',
+        'add_question'   => 'Add Question',
+        'added_questions'   => 'All Added Questions',
+        'question'   => 'Question',
+        'answer'   => 'Answer',
+
+        // Contact
+        'contact'   => 'Contact',
+        'all_messages'   => 'All Messages',
+        'phone_number'   => 'Phone Number',
+        'sender_email'   => 'Sender Email',
+        'sender_message'   => 'Sender Message',
+        'contact_info'   => 'Contact Info',
+        'sales_number'   => 'Sales Number',
+        'whatsup'   => 'Whatsup',
+        'email_address'   => 'Email Address',
+        'address'   => 'Address',
+
+        // Users
+        'users'   => 'Users',
+        'add_user'   => 'Add A User',
+        'user_name'   => 'User Name',
+        'user_email'   => 'User Email',
+        'user_password'   => 'User Password',
+        'add_user'   => 'Add A User',
+        'all_users'   => 'All Users',
+        'user_name'   => 'User Name',
+        'user_email'   => 'User Email',
+        'new_password'   => 'New Password',
+
+        /**
+         * Site
+         */
+
+        // Home
+        'about_us' => 'about us',
+        'more_details' => 'more details',
+        'our_services' => 'our services',
+        'more_services' => 'more services',
+        'faq' => 'faq',
+        'our_clients' => 'our clients',
+        'newsletters' => 'newsletters',
+        'subscribe_detail'  => 'Subscribe To Get Latest Updates On Your Mail',
+        'email_address'   => 'Email Address',
+        'our_mission' => 'our mission',
+        'our_vision' => 'our vision',
+        'contact_us' => 'call us',
+        'email_address' => 'email address',
+        'copy_rights' => ' all rights reserved © 2016 ',
+    ];
